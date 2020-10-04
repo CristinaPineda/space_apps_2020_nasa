@@ -1,0 +1,11 @@
+Para a criação de API utilizaremos a linguagem de programação Python e o Framework Django,
+Python é uma linguagem de tipagem dinâmica e com isso pode-se trabalhar em diversas áreas,
+para diversos fins e é amplamente utilizada por empresas do mundo todo assim como a
+framework Django que agiliza o desenvolvimento e tem código aberto com essas tecnologias 
+as requisições de dados referentes as pegadas de carbono advindas da atividade humana e
+sua relação com as imagens fornecidas por satélites da Nasa, serão atendidas. 
+Faremos uso de APIs fornecidas por sites com base de dados para alimentar nossos bancos.
+Imagens poderão ser criadas (imagem de emissão de carbono provenientes de atividades com queimadas).
+Mais que uma simples consulta a um repositório de dados, uma API fornece dados para a geração de insights 
+de tomada de decisão. O uso de APIS tem se tornado comum, permite integrações, otimiza a gestão de empresas,
+cria maior viabilidade para parcerias de negócios, customiza dados e gera valor.
